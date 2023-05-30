@@ -1,0 +1,33 @@
+.buttons {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #f1f1f1;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttons:hover {
+    background-color: #efe7e7;
+  }
+  
+ 
+
+  #rock {
+    background-color: #FF5733;
+    color: #FFF;
+  }
+  
+  #paper {
+    background-color: #3498DB;
+    color: #FFF;
+  }
+  
+  #scissors {
+    background-color: #2ECC71;
+    color: #FFF;
+  }
+  
+  
